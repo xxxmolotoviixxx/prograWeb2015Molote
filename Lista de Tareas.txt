@@ -16,3 +16,8 @@ Wwindows ...
 		git 	//Ubuntu
 http://filezilla-project.org/download.php?type=client //Windows
 http:putty.org //Windows
+
+30/01/2015  Presentación de la historia de Internet. 
+Minimo 7 diapositivas. 
+
+30/01/2015 Lista de todas las etiquetas con sus atributos
