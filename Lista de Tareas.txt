@@ -1,0 +1,18 @@
+
+30/01/2015  Crear un entorno de Desarrollo
+1.- Crear una máquina virtual
+2.- Descargar una versión de Ubuntu
+Se requiere: cualquier distribución de Linux. 
+
+Wwindows ...
+
+1.- Virtual Box
+2.- Descargar Ubuntu
+	Instalar: 
+		apache2 //ubuntu
+		php5	//ubuntu
+		MySql-Server //ubuntu
+		ssh	//ubuntu
+		git 	//Ubuntu
+http://filezilla-project.org/download.php?type=client //Windows
+http:putty.org //Windows
